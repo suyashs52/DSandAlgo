@@ -2,6 +2,7 @@ package com.ds;
 
 public class main {
 	public static void main(String... args) {
-		TowerOfHanoi.code();
+		// TowerOfHanoi.code();
+		AllBinaryString.code();
 	}
 }
